@@ -1,6 +1,6 @@
 # Silicon Labs Project Configuration Tools: slcp, v0, Component selection file.
-project_name: SimplicityStudio_project
-label: SimplicityStudio_project
+project_name: Gecko_Battleships_FreeRTOS
+label: Gecko_Battleships_FreeRTOS
 description: |
   This example project shows an empty configuration that can be used as a starting point to add components and functionality.
 category: Example|Platform
