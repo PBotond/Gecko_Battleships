@@ -7,4 +7,4 @@
 - Silicon Labs Simplicity Studio 5 with Gecko SDK suite
 - Ubuntu Linux 22.04.2 for WSL
 - GCC compiler
-- *For creating the documentation:* Doxygen, Graphwiz Dot, MikTEX 
+- *For creating the documentation:* Doxygen, Graphviz Dot, MikTEX 
