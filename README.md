@@ -1,4 +1,4 @@
-Gecko Battleships 🦎🚢🔫
+# Gecko Battleships 🦎🚢🔫
 "Battleships" game for Silabs EFM32GG STK3700 development board with UART control program for Linux. Homework project for PEP.
 - **Simplicity Studio 5 project:** in Gecko_Battleships_freeRTOS folder, documentation in PEP_doc_freeRTOS.pdf.
 - **Linux program source code:** in Gecko_Battleships_Linux folder, documentation in PEP_doc_Linux.pdf.
